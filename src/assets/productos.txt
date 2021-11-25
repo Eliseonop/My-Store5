@@ -1,0 +1,146 @@
+[
+ {
+  "nombre": "Lentes Dorados",
+  "descripcion": "Vestibulum imperdiet sem nec ligula fermentum rutrum. Vestibulum ornare pellentesque semper. Fusce nunc elit, venenatis sit amet augue eu, semper auctor urna. Praesent et tortor ut orci consectetur ullamcorper.",
+  "precio": 80,
+  "imagen": "https://images.unsplash.com/photo-1534844978-b859e5a09ad6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+  "categoria_id": "5",
+  "id": "1"
+ },
+ {
+  "nombre": "Lentes Rosados",
+  "descripcion": "Vestibulum imperdiet sem nec ligula fermentum rutrum. Vestibulum ornare pellentesque semper. Fusce nunc elit, venenatis sit amet augue eu, semper auctor urna. Praesent et tortor ut orci consectetur ullamcorper.",
+  "precio": 100,
+  "imagen": "https://images.unsplash.com/photo-1582142407894-ec85a1260a46?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+  "categoria_id": "5",
+  "id": "2"
+ },
+ {
+  "nombre": "Lentes de Sol",
+  "descripcion": "Vestibulum imperdiet sem nec ligula fermentum rutrum. Vestibulum ornare pellentesque semper. Fusce nunc elit, venenatis sit amet augue eu, semper auctor urna. Praesent et tortor ut orci consectetur ullamcorper.",
+  "precio": 100,
+  "imagen": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+  "categoria_id": "5",
+  "id": "3"
+ },
+ {
+  "nombre": "Lentes lunas verdes",
+  "descripcion": "Vestibulum imperdiet sem nec ligula fermentum rutrum. Vestibulum ornare pellentesque semper. Fusce nunc elit, venenatis sit amet augue eu, semper auctor urna. Praesent et tortor ut orci consectetur ullamcorper.",
+  "precio": 94,
+  "imagen": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+  "categoria_id": "5",
+  "id": "4"
+ },
+ {
+  "nombre": "Conjunto dama 1",
+  "descripcion": "Vestibulum imperdiet sem nec ligula fermentum rutrum. Vestibulum ornare pellentesque semper. Fusce nunc elit, venenatis sit amet augue eu, semper auctor urna. Praesent et tortor ut orci consectetur ullamcorper.",
+  "precio": 320,
+  "imagen": "https://images.unsplash.com/photo-1516762689617-e1cffcef479d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=411&q=80",
+  "categoria_id": "1",
+  "id": "5"
+ },
+ {
+  "nombre": "Conjunto francés",
+  "descripcion": "Vestibulum imperdiet sem nec ligula fermentum rutrum. Vestibulum ornare pellentesque semper. Fusce nunc elit, venenatis sit amet augue eu, semper auctor urna. Praesent et tortor ut orci consectetur ullamcorper.",
+  "precio": 380,
+  "imagen": "https://images.unsplash.com/photo-1525507119028-ed4c629a60a3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+  "categoria_id": "1",
+  "id": "6"
+ },
+ {
+  "nombre": "Conjunto Simple",
+  "descripcion": "Vestibulum imperdiet sem nec ligula fermentum rutrum. Vestibulum ornare pellentesque semper. Fusce nunc elit, venenatis sit amet augue eu, semper auctor urna. Praesent et tortor ut orci consectetur ullamcorper.",
+  "precio": 380,
+  "imagen": "https://images.unsplash.com/photo-1467043237213-65f2da53396f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+  "categoria_id": "1",
+  "id": "7"
+ },
+ {
+  "nombre": "Conjunto Caballero",
+  "descripcion": "Vestibulum imperdiet sem nec ligula fermentum rutrum. Vestibulum ornare pellentesque semper. Fusce nunc elit, venenatis sit amet augue eu, semper auctor urna. Praesent et tortor ut orci consectetur ullamcorper.",
+  "precio": 480,
+  "imagen": "https://images.unsplash.com/photo-1479064555552-3ef4979f8908?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+  "categoria_id": "1",
+  "id": "8"
+ },
+ {
+  "nombre": "Jeans Fit",
+  "descripcion": "Vestibulum imperdiet sem nec ligula fermentum rutrum. Vestibulum ornare pellentesque semper. Fusce nunc elit, venenatis sit amet augue eu, semper auctor urna. Praesent et tortor ut orci consectetur ullamcorper.",
+  "precio": 480,
+  "imagen": "https://images.unsplash.com/photo-1475178626620-a4d074967452?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=386&q=80",
+  "categoria_id": "2",
+  "id": "9"
+ },
+ {
+  "nombre": "Jeans Rasgados",
+  "descripcion": "Vestibulum imperdiet sem nec ligula fermentum rutrum. Vestibulum ornare pellentesque semper. Fusce nunc elit, venenatis sit amet augue eu, semper auctor urna. Praesent et tortor ut orci consectetur ullamcorper.",
+  "precio": 480,
+  "imagen": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+  "categoria_id": "2",
+  "id": "10"
+ },
+ {
+  "nombre": "Jeans Cortos",
+  "descripcion": "Vestibulum imperdiet sem nec ligula fermentum rutrum. Vestibulum ornare pellentesque semper. Fusce nunc elit, venenatis sit amet augue eu, semper auctor urna. Praesent et tortor ut orci consectetur ullamcorper.",
+  "precio": 480,
+  "imagen": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+  "categoria_id": "2",
+  "id": "11"
+ },
+ {
+  "nombre": "Vestido Rojo",
+  "descripcion": "Vestibulum imperdiet sem nec ligula fermentum rutrum. Vestibulum ornare pellentesque semper. Fusce nunc elit, venenatis sit amet augue eu, semper auctor urna. Praesent et tortor ut orci consectetur ullamcorper.",
+  "precio": 180,
+  "imagen": "https://images.unsplash.com/photo-1542295669297-4d352b042bca?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+  "categoria_id": "3",
+  "id": "12"
+ },
+ {
+  "nombre": "Vestido Verde",
+  "descripcion": "Vestibulum imperdiet sem nec ligula fermentum rutrum. Vestibulum ornare pellentesque semper. Fusce nunc elit, venenatis sit amet augue eu, semper auctor urna. Praesent et tortor ut orci consectetur ullamcorper.",
+  "precio": 180,
+  "imagen": "https://images.unsplash.com/photo-1618932260643-eee4a2f652a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=780&q=80",
+  "categoria_id": "3",
+  "id": "13"
+ },
+ {
+  "nombre": "Vestido Rojo Gala",
+  "descripcion": "Vestibulum imperdiet sem nec ligula fermentum rutrum. Vestibulum ornare pellentesque semper. Fusce nunc elit, venenatis sit amet augue eu, semper auctor urna. Praesent et tortor ut orci consectetur ullamcorper.",
+  "precio": 180,
+  "imagen": "https://images.unsplash.com/photo-1527189919029-aeb3d997547d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=385&q=80",
+  "categoria_id": "3",
+  "id": "14"
+ },
+ {
+  "nombre": "Vestido Amarillo",
+  "descripcion": "Vestibulum imperdiet sem nec ligula fermentum rutrum. Vestibulum ornare pellentesque semper. Fusce nunc elit, venenatis sit amet augue eu, semper auctor urna. Praesent et tortor ut orci consectetur ullamcorper.",
+  "precio": 130,
+  "imagen": "https://images.unsplash.com/photo-1605763240000-7e93b172d754?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+  "categoria_id": "3",
+  "id": "15"
+ },
+ {
+  "nombre": "Reloj Timex Metálico",
+  "descripcion": "https://images.unsplash.com/photo-1618151444381-4ee6c3b2205a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+  "precio": 180,
+  "imagen": "https://images.unsplash.com/photo-1605763240000-7e93b172d754?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+  "categoria_id": "4",
+  "id": "16"
+ },
+ {
+  "nombre": "Reloj Negro",
+  "descripcion": "https://images.unsplash.com/photo-1618151444381-4ee6c3b2205a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+  "precio": 150,
+  "imagen": "https://images.unsplash.com/photo-1533139502658-0198f920d8e8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=742&q=80",
+  "categoria_id": "4",
+  "id": "17"
+ },
+ {
+  "nombre": "Reloj Azul",
+  "descripcion": "https://images.unsplash.com/photo-1618151444381-4ee6c3b2205a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+  "precio": 110,
+  "imagen": "https://images.unsplash.com/photo-1585123334904-845d60e97b29?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+  "categoria_id": "4",
+  "id": "17"
+ }
+]
